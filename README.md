@@ -25,7 +25,7 @@ Please feel free to [pull requests](https://github.com/xuehaouwa/Awesome-Traject
 
 
 #### Trajectory Prediction Related
-- Eigentrajectory: Low-rank descriptors for multi-modal trajectory forecasting,ICCV 2023 [Paper](https://ihbae.com/publication/eigentrajectory/)
+- Eigentrajectory: Low-rank descriptors for multi-modal trajectory forecasting,ICCV 2023 [Paper](https://ihbae.com/publication/eigentrajectory/)[Code](https://github.com/InhwanBae/EigenTrajectory)
 - How many Observations are Enough? Knowledge Distillation for Trajectory Forecasting, CVPR 2022, [Paper](https://arxiv.org/abs/2203.04781)
 - Social-Implicit: Rethinking Trajectory Prediction Evaluation and The Effectiveness of Implicit Maximum Likelihood Estimation, ECCV 2022, [Paper](<https://arxiv.org/abs/2203.03057>), [Code](<https://github.com/abduallahmohamed/Social-Implicit>)
 - S-attack library: A library for evaluating trajectory prediction models [Website](<https://s-attack.github.io/>)
